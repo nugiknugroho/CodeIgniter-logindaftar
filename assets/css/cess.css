@@ -1,0 +1,53 @@
+body{ 
+
+	background-color: lightblue;
+}
+
+#header {
+	margin-bottom: 0px;
+}
+
+#konten {
+	/*background-color: #009688;*/
+	background-color: lightblue;
+	margin-top: 0px;
+	font-size: 20px;
+}
+
+#sidebar {
+	background-color: lightblue;
+	float: right;
+	width: 30%;
+	height: 348px;
+}
+
+#artikel {
+	float: left;
+	background-color: blue;
+	color: #212121;
+	width: 70%;
+}
+
+#footer {
+	text-align: center;
+	background-color: grey;
+	color: #424242;
+}
+
+.kolom8 {
+	background-color: lightblue;
+	color: blue;
+	min-height: 600px;
+	padding: 30px;
+}
+
+.kolom4 {
+	background-color: yellow;
+	min-height: 600px;
+	padding: 30px;
+	margin: 0px;
+}
+
+.hurufhitam {
+	color: black;
+}

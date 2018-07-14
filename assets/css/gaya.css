@@ -1,0 +1,99 @@
+body{
+
+	background-color: gray;
+}
+
+#slidecontain{
+
+	position: relative;
+	overflow: hidden;
+	background: black;
+
+}
+
+#slidecontain{
+
+	width: 700px;
+	height: 341px;
+
+
+}
+
+#cssslide{
+
+	width: 700px;
+	height: 341px;
+	float: left;
+
+}
+
+#cssslide{
+	 position: absolute; 
+  width:3900px;  
+  -webkit-animation-name:slider;
+  -webkit-animation-duration:15s;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count:infinite;
+  -moz-animation-name:slider;
+  -moz-animation-duration:15s;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-iteration-count:infinite;
+  -o-animation-name:slider;
+  -o-animation-duration:15s;
+  -o-animation-timing-function: ease-in-out;
+  -o-animation-iteration-count:infinite;
+  animation-name:slider;
+  animation-duration:15s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count:infinite;
+}
+
+#header {
+	margin-bottom: 0px;
+}
+
+#konten {
+	/*background-color: #009688;*/
+	background-color: gray;
+	margin-top: 0px;
+	font-size: 20px;
+}
+
+#sidebar {
+	background-color: lightblue;
+	float: right;
+	width: 30%;
+	height: 348px;
+}
+
+#artikel {
+	float: left;
+	background-color: blue;
+	color: #212121;
+	width: 70%;
+}
+
+#footer {
+	text-align: center;
+	background-color: gray;
+	color: black;
+}
+
+.kolom8 {
+	background-color: white;
+	color: black;
+	min-height: 600px;
+	padding: 30px;
+}
+
+.kolom4 {
+	background-color: gray;
+	background-image: url(/guru.jpg);
+	min-height: 600px;
+	padding: 30px;
+	margin: 0px;
+}
+
+.hurufhitam {
+	color: black;
+}
